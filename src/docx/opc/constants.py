@@ -205,6 +205,9 @@ class CONTENT_TYPE:
         "application/vnd.openxmlformats-officedocument.wordprocessingml.docu"
         "ment.glossary+xml"
     )
+    WML_DOCUMENT_MACRO_ENABLED_MAIN = (
+        "application/vnd.ms-word.document.macroEnabled.main+xml"
+    )
     WML_DOCUMENT_MAIN = (
         "application/vnd.openxmlformats-officedocument.wordprocessingml.docu"
         "ment.main+xml"
